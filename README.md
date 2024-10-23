@@ -22,11 +22,7 @@ npm start
 ```
 ## 構成
 
-- [要件](./docs/req.adoc)
-- [開発](./docs/dev.adoc)
-- [構築](./docs/build.adoc)
-- [配置](./docs/ship.adoc)
-- [運用](./docs/run.adoc)
+- [基本スキル](./docs/logicalthink.adoc)
 
 ## 参照
 
