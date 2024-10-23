@@ -2,20 +2,20 @@ import "./style.css";
 import render from "@k2works/full-stack-lab";
 
 const contents = `
-## 機能名
-## 仕様
-## TODOリスト
+
+# ケーススタディ
+
+## [基本スキル](docs/logicalthink.html)
+
 `;
 
 const mindmap = `
 @startmindmap
-+ root
-++ right
-+++ right right
-*** right2
--- left
---- left left
--- left2
+
+* ケーススタディ
+-- 基本スキル
+--- ロジカルシンキング
+--- クリティカルシンキング
 
 @endmindmap
 `;
