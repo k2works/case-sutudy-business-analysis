@@ -4,7 +4,7 @@
 :stem:
 :source-highlighter: coderay
 
-# 実践プログラマー 基本スキル
+# 基本スキル
 
 
 ## 構成

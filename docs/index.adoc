@@ -12,6 +12,8 @@
 
 === link:/docs/logicalthink.html[基本スキル^]
 
+=== link:/docs/case/r04_case_1.html[農業法人Ａ社の事例^]
+
 
 == 参照
 

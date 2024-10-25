@@ -7,6 +7,8 @@ const contents = `
 
 ## [基本スキル](docs/logicalthink.html)
 
+## [農業法人Ａ社の事例](docs/case/r04_case_1.html)
+
 `;
 
 const mindmap = `
@@ -16,6 +18,7 @@ const mindmap = `
 -- 基本スキル
 --- ロジカルシンキング
 --- クリティカルシンキング
+** 農業法人Ａ社の事例
 
 @endmindmap
 `;
