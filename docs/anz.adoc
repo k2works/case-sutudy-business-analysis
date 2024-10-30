@@ -74,35 +74,11 @@ image::images/SWOT.drawio.svg[]
 @endmindmap
 ----
 
-=== 業務分析
+== 事業分析
 
-[plantuml]
-----
-@startmindmap
+=== 企業戦略
 
-* A社
--- ドメイン
---- 企業ドメイン
----- 理念
----- ビジョン
----- ミッション
---- 事業ドメイン
----- 誰に
------ 事業者
----- 何を
----- どのように
---- サブドメイン
----- コアサブドメイン
----- 汎用サブドメイン
----- サポートサブドメイン
-** 事業
-
-@endmindmap
-----
-
-== 企業戦略
-
-=== ドメイン
+==== ドメイン
 
 [plantuml]
 ----
@@ -119,7 +95,7 @@ image::images/SWOT.drawio.svg[]
 @endmindmap
 ----
 
-=== 成長戦略
+==== 成長戦略
 
 image::images/ansoff_matrix.drawio.svg[]
 
@@ -141,7 +117,7 @@ image::images/ansoff_matrix.drawio.svg[]
 @endmindmap
 ----
 
-=== イシューツリー
+==== イシューツリー
 
 [plantuml]
 ----
@@ -152,9 +128,9 @@ image::images/ansoff_matrix.drawio.svg[]
 @endmindmap
 ----
 
-== 事業戦略
+=== 事業戦略
 
-=== 基本戦略
+==== 基本戦略
 
 [plantuml]
 ----
@@ -166,7 +142,7 @@ image::images/ansoff_matrix.drawio.svg[]
 @endmindmap
 ----
 
-=== 価値連鎖
+==== 価値連鎖
 
 [plantuml]
 ----
@@ -186,7 +162,7 @@ image::images/ansoff_matrix.drawio.svg[]
 @endmindmap
 ----
 
-=== 競争地位別の戦略
+==== 競争地位別の戦略
 
 [plantuml]
 ----
@@ -204,7 +180,7 @@ image::images/ansoff_matrix.drawio.svg[]
 @endmindmap
 ----
 
-=== イシューツリー
+==== イシューツリー
 
 [plantuml]
 ----
@@ -216,21 +192,21 @@ image::images/ansoff_matrix.drawio.svg[]
 @endmindmap
 ----
 
-== 機能戦略
+=== 機能戦略
 
-=== 販売
+==== 販売
 
-=== 生産
+==== 生産
 
-=== 購買
+==== 購買
 
-=== 総務
+==== 総務
 
-=== 財務
+==== 財務
 
-=== 資源
+==== 資源
 
-=== イシューツリー
+==== イシューツリー
 
 [plantuml]
 ----
@@ -244,3 +220,79 @@ image::images/ansoff_matrix.drawio.svg[]
 *** 資源
 @endmindmap
 ----
+
+== 業務分析
+
+[plantuml]
+----
+@startmindmap
+
+* A社
+-- ドメイン
+--- 企業ドメイン
+---- 理念
+---- ビジョン
+---- ミッション
+--- 事業ドメイン
+---- 誰に
+---- 何を
+---- どのように
+--- サブドメイン
+---- コアサブドメイン
+---- 汎用サブドメイン
+---- サポートサブドメイン
+** 事業
+
+@endmindmap
+----
+
+=== サブドメイン
+
+==== コアサブドメイン
+
+==== 汎用サブドメイン
+
+==== サポートサブドメイン
+
+=== ビジネスコンテキスト
+
+=== ビジネスユースケース
+
+==== 業務
+
+===== ユースケース図
+
+[plantuml]
+----
+@startuml
+
+title ビジネスユースケース
+
+@enduml
+----
+
+==== シーケンス図
+
+[plantuml]
+----
+@startuml
+
+title 業務シーケンス図
+
+@enduml
+----
+
+==== 業務フロー図
+
+===== 業務
+
+[plantuml]
+----
+@startuml
+
+title 業務フロー
+
+
+@enduml
+----
+
