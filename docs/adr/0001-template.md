@@ -1,10 +1,10 @@
-# 1. sample adr
+# 1. 分析テンプレート
 
-日付: 2024-11-05
+日付: 2024-11-09
 
 ## ステータス
 
-2024-11-05 提案されました
+2024-11-09 提案されました
 
 ## 文脈
 
@@ -36,30 +36,17 @@ mindmap
           固定費
 ```
 
-### インパクトマップ
+### 組織
 
 ```mermaid
 mindmap
-  root((Goals))
-    Actors
-      Impacts
-        Deliverables
-        Deliverables
-      Impacts
-        Deliverables
-      Impacts
-        Deliverables
-        Deliverables
-    Actors
-      Impacts
-        Deliverables
-      Impacts
-        Deliverables
-    Actors
-      Impacts
-        Deliverables
-      Impacts
-        Deliverables
+  root((組織))
+   事業
+     部門
+   事業
+     部門
+   事業
+     部門
 ```
 
 ### ドメイン
@@ -67,24 +54,18 @@ mindmap
 ```mermaid
 mindmap
   root((ドメイン))
-    組織
-      ドメイン
-        企業ドメイン
-          理念
-          ビジョン
-          ミッション
-        事業ドメイン
-          誰に
-          何を
-          どのように
-        サブドメイン
-          コアサブドメイン
-          汎用サブドメイン
-          サポートサブドメイン
-    事業
-      部門
-      部門
-      部門
+     企業ドメイン
+       理念
+       ビジョン
+       ミッション
+     事業ドメイン
+       誰に
+       何を
+       どのように
+    サブドメイン
+      コアサブドメイン
+      汎用サブドメイン
+      サポートサブドメイン
 ```
 
 ```mermaid
