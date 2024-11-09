@@ -200,5 +200,5 @@ e01 |o..o{ e03
 @enduml
 `;
 
-const mode = "DOC"; // "UI" or "API" or "DOC"
+const mode = "APP"; // "UI" or "API" or "DOC"
 render({ mindmap, contents, ui, uiModel, uiInteraction, usecase, uml, erd, mode });
