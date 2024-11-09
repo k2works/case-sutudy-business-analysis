@@ -156,3 +156,25 @@ exports.webpackBuildTasks = () => {
 }
 
 exports.webpack = webpack;
+
+const adr = {
+    build: (cb) => {
+        const adr = require("@k2works/adr");
+        fs.ensureDir("./public/docs/adr").then(() => {
+            src("./docs/adr/images/**").pipe(dest("./public/docs/adr/images"));
+            const builder = new adr.default.HtmlBuilder("./docs/adr/", "./public/docs/adr/");
+            let output = builder.buildContent();
+            builder.output();
+            return output
+        });
+        cb();
+    },
+    clean: async (cb) => {
+        await fs.remove("./public/docs/adr");
+        cb();
+    },
+}
+
+exports.adrBuildTasks = () => {
+    return series(adr.clean, adr.build);
+}
