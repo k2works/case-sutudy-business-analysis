@@ -8,6 +8,7 @@ const contents = `
 ## [基本スキル](docs/logicalthink.html)
 
 ## [農業法人Ａ社の事例](docs/case/r04_case_1.html)
+## [食肉と食肉加工品の製造・販売を行うB社の事例](docs/case/r04_case_2.html)
 
 `;
 
@@ -23,6 +24,7 @@ const mindmap = `
 --- 事業分析
 --- 業務分析
 ** 農業法人Ａ社の事例
+** 食肉と食肉加工品の製造・販売を行うB社の事例
 
 @endmindmap
 `;
