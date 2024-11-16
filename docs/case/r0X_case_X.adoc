@@ -68,12 +68,13 @@ left side
 
 * SWOT
 ** 内部環境
-*** 強み
-*** 弱み
+***[#lightgreen] 強み
+***[#yellow] 弱み
 left side
 ** 外部環境
-*** 機会
-*** 脅威
+***[#lightblue] 機会
+***[#red] 脅威
+
 @endmindmap
 ----
 
