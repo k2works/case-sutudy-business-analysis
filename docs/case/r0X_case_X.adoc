@@ -78,6 +78,22 @@ left side
 @endmindmap
 ----
 
+=== VRIO分析
+
+[plantuml]
+----
+@startmindmap
+
+* VRIO
+** 価値
+** 希少性
+left side
+** 模倣可能性
+** 組織
+
+@endmindmap
+----
+
 == 事業分析
 
 === 企業戦略
@@ -151,6 +167,26 @@ left side
 @endmindmap
 ----
 
+==== 競争戦略
+
+[plantuml]
+----
+@startmindmap
+
+* 競争戦略
+** リーダー
+*** 市場拡大
+*** 同質化
+** チャレンジャー
+*** 差別化
+** ニッチャー
+*** 集中
+** フォロワー
+*** 追随
+
+@endmindmap
+----
+
 ==== 価値連鎖
 
 [plantuml]
@@ -169,26 +205,6 @@ left side
 *** 人事・労務管理
 *** 技術開発
 *** 調達活動
-
-@endmindmap
-----
-
-==== 競争地位別の戦略
-
-[plantuml]
-----
-@startmindmap
-
-* 競争地位別の戦略
-** リーダー
-*** 市場拡大
-*** 同質化
-** チャレンジャー
-*** 差別化
-** ニッチャー
-*** 集中
-** フォロワー
-*** 追随
 
 @endmindmap
 ----
