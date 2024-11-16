@@ -145,7 +145,9 @@ left side
 @startmindmap
 
 * イシューツリー
+left side
 ** ドメイン
+right side
 ** 成長戦略
 
 @endmindmap
@@ -216,9 +218,10 @@ left side
 @startmindmap
 
 * イシューツリー
+left side
+** 基本戦略
 ** 競争戦略
 ** 価値連鎖
-** 基本戦略
 
 @endmindmap
 ----
@@ -260,11 +263,8 @@ left side
 ----
 @startmindmap
 
-* A社
-** サブドメイン
-*** コアサブドメイン
-*** 汎用サブドメイン
-*** サポートサブドメイン
+* ドメイン
+
 left side
 ** 企業ドメイン
 *** 理念
@@ -274,6 +274,13 @@ left side
 *** 誰に
 *** 何を
 *** どのように
+
+right side
+
+** サブドメイン
+*** コアサブドメイン
+*** 汎用サブドメイン
+*** サポートサブドメイン
 
 @endmindmap
 ----
