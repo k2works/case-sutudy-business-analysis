@@ -16,6 +16,7 @@
 
 === link:/docs/case/r04_case_2.html[食肉と食肉加工品の製造・販売を行うB社の事例^]
 
+=== link:/docs/case/r04_case_3.html[金属製品製造業であるC社の事例^]
 
 == 参照
 
