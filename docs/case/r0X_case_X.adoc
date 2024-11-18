@@ -88,7 +88,7 @@ left side
 ** 価値
 ** 希少性
 left side
-** 模倣可能性
+** 模倣困難性
 ** 組織
 
 @endmindmap
