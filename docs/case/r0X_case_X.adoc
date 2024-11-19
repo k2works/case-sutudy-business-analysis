@@ -85,11 +85,11 @@ left side
 @startmindmap
 
 * VRIO
-** 価値
+** 経済的価値
 ** 希少性
 left side
 ** 模倣困難性
-** 組織
+** 組織能力
 
 @endmindmap
 ----
