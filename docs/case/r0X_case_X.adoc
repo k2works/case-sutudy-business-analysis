@@ -220,8 +220,8 @@ right side
 * イシューツリー
 left side
 ** 基本戦略
-right side
 ** 競争戦略
+right side
 ** 価値連鎖
 
 @endmindmap
