@@ -12,6 +12,10 @@
 
 === link:/docs/logicalthink.html[基本スキル^]
 
+=== link:/docs/business_strategy.html[企業経営理論^]
+
+=== link:/docs/business_operations.html[運営管理^]
+
 === link:/docs/case/r04_case_1.html[農業法人Ａ社の事例^]
 
 === link:/docs/case/r03_case_1.html[印刷・広告制作会社A社の事例^]
