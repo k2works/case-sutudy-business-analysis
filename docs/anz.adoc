@@ -59,7 +59,7 @@ image::images/BMC.drawio.svg[]
 
 === SWOT分析
 
-image::images/SWOT.drawio.svg[]
+image::images/VRIO.drawio.svg[]
 
 [plantuml]
 ----
@@ -97,7 +97,7 @@ image::images/SWOT.drawio.svg[]
 
 ==== 成長戦略
 
-image::images/ansoff_matrix.drawio.svg[]
+image::images/Ansoff.drawio.svg[]
 
 [plantuml]
 ----

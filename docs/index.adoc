@@ -12,6 +12,8 @@
 
 === link:/docs/logicalthink.html[基本スキル^]
 
+=== link:/docs/business_model_canvas.html[ビジネスモデルキャンバス^]
+
 === link:/docs/business_strategy.html[企業経営理論^]
 
 === link:/docs/business_operations.html[運営管理^]

@@ -6,7 +6,7 @@ const contents = `
 # ケーススタディ
 
 ## [基本スキル](docs/logicalthink.html)
-
+## [ビジネスモデルキャンバス](docs/business_model_canvas.html)
 ## [農業法人Ａ社の事例](docs/case/r04_case_1.html)
 ## [印刷・広告制作会社A社の事例](docs/case/r03_case_1.html)
 ## [老舗の蔵元A社の事例](docs/case/r02_case_1.html)
@@ -26,6 +26,7 @@ const mindmap = `
 *** クリティカルシンキング
 *** イシューツリー
 ** 分析ツール
+*** ビジネスモデルキャンバス
 *** 企業経営理論
 **** 経営戦略
 **** 経営組織
@@ -44,7 +45,6 @@ const mindmap = `
 -- 現状分析
 --- 環境分析
 ---- 組織図
----- ビジネスモデルキャンバス
 ---- SWOT分析
 ---- VRIO分析
 --- 事業分析
