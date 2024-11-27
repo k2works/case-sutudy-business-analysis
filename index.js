@@ -9,6 +9,7 @@ const contents = `
 
 ## [農業法人Ａ社の事例](docs/case/r04_case_1.html)
 ## [印刷・広告制作会社A社の事例](docs/case/r03_case_1.html)
+## [老舗の蔵元A社の事例](docs/case/r02_case_1.html)
 ## [食肉と食肉加工品の製造・販売を行うB社の事例](docs/case/r04_case_2.html)
 ## [豆腐の製造販売業者B社の事例](docs/case/r03_case_2.html)
 ## [金属製品製造業であるC社の事例](docs/case/r04_case_3.html)
@@ -35,6 +36,7 @@ const mindmap = `
 ** 実践
 *** 農業法人Ａ社の事例
 *** 印刷・広告制作会社A社の事例
+*** 老舗の蔵元A社の事例
 *** 食肉と食肉加工品の製造・販売を行うB社の事例
 *** 金属製品製造業であるC社の事例
 *** 革製のバッグを製造、販売するC社の事例
