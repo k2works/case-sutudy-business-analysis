@@ -5,8 +5,12 @@ const contents = `
 
 # ケーススタディ
 
-## [基本スキル](docs/logicalthink.html)
-## [ビジネスモデルキャンバス](docs/business_model_canvas.html)
+## 基本スキル
+### [ロジカルシンキング・クリティカルシンキング](docs/logicalthink.html)
+### [ビジネスモデルキャンバス](docs/business_model_canvas.html)
+### [企業経営理論](docs/business_strategy.html)
+### [運営管理](docs/business_operations.html)
+## 実践
 ## [農業法人Ａ社の事例](docs/case/r04_case_1.html)
 ## [印刷・広告制作会社A社の事例](docs/case/r03_case_1.html)
 ## [老舗の蔵元A社の事例](docs/case/r02_case_1.html)
