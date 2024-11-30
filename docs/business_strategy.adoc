@@ -74,7 +74,11 @@ right side
 @endmindmap
 ----
 
-=== 経営理念とビジョン
+=== 経営活動の構成
+
+image::images/BusinessActivitiy.svg[経営活動の構成, 600, 400]
+
+==== 経営理念とビジョン
 
 経営理念は、企業が存在する理由や目的を表します。これは社員のやる気を引き出す役割も果たします。経営理念は企業の基本的な考え方であり、すべての活動の基盤となります。
 
@@ -252,6 +256,35 @@ right side
 ****** 顧客対応
 **** 情報的経営資源
 @endmindmap
+----
+
+==== 戦略策定プロセス
+
+[plantuml]
+----
+@startuml
+
+start
+
+:経営理念/ビジョン;
+
+:環境分析;
+note right: SWOT分析を実施
+
+partition 経営戦略 {
+    :企業戦略;
+    note right: ドメイン決定
+
+    :事業戦略;
+    note right: 事業別に詳細化
+
+    :機能戦略;
+    note right: 各機能別の戦略立案
+}
+
+stop
+
+@enduml
 ----
 
 ==== ドメイン（Domain）
