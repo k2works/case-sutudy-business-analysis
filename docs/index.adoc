@@ -38,6 +38,8 @@
 
 ==== link:/docs/case/r03_case_3.html[バッグ製造業者C社の事例^]
 
+==== link:/docs/case/r02_case_3.html[ステンレス製品の受注・製作・据付を行うC社の事例^]
+
 
 == 参照
 
