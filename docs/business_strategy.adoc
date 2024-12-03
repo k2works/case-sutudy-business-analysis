@@ -845,6 +845,90 @@ right side
 @endmindmap
 ----
 
+==== 組織の構造
+
+===== 組織の要素
+
+image::images/OrganizationElemnts.svg[組織の要素, 600, 400]
+
+===== 基本構造
+
+[plantuml]
+----
+@startuml
+
+title 組織の階層と分業化
+
+component 組織全体 {
+    package "経営層" as top {
+        entity "経営者" as ceo
+    }
+    package "管理者層" as middle {
+        entity "管理者" as manager1
+        entity "管理者" as manager2
+    }
+    package "作業階層" as operation {
+        entity "財務" as finance
+        entity "生産" as production
+        entity "営業" as sales
+        entity "購買" as purchase
+    }
+}
+
+top <-- middle
+middle <--- operation
+
+@enduml
+----
+
+===== 戦略との関連
+
+> 組織は戦略に従う
+>
+> アルフレッド・チャンドラー
+
+[plantuml]
+----
+@startuml
+
+title 組織は戦略に従う
+
+start
+
+:外部環境の変化;
+
+:戦略の変化;
+
+:組織の変化;
+
+stop
+
+@enduml
+----
+
+> 戦略は組織に従う
+>
+> アンゾフ
+
+[plantuml]
+----
+@startuml
+
+title 戦略は組織に従う
+
+start
+
+:外部環境の変化;
+
+:組織の変化;
+
+:戦略の変化;
+
+stop
+
+@enduml
+----
+
 === 組織と人材
 
 [plantuml]
