@@ -18,6 +18,7 @@ const contents = `
 ## [食肉と食肉加工品の製造・販売を行うB社の事例](docs/case/r04_case_2.html)
 ## [豆腐の製造販売業者B社の事例](docs/case/r03_case_2.html)
 ## [農業生産法人B社の事例](docs/case/r02_case_2.html)
+## [ネイルサロンB社の事例](docs/case/r01_case_2.html)
 ## [金属製品製造業であるC社の事例](docs/case/r04_case_3.html)
 ## [革製のバッグを製造、販売するC社の事例](docs/case/r03_case_3.html)
 ## [ステンレス製品の受注・製作・据付を行うC社の事例](docs/case/r02_case_3.html)

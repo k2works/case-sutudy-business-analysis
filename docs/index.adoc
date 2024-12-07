@@ -38,6 +38,8 @@
 
 ==== link:/docs/case/r02_case_2.html[農業生産法人B社の事例^]
 
+==== link:/docs/case/r01_case_2.html[ネイルサロンB社の事例^]
+
 ==== link:/docs/case/r04_case_3.html[金属製品製造業であるC社の事例^]
 
 ==== link:/docs/case/r03_case_3.html[バッグ製造業者C社の事例^]
