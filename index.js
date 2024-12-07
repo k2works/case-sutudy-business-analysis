@@ -22,6 +22,7 @@ const contents = `
 ## [金属製品製造業であるC社の事例](docs/case/r04_case_3.html)
 ## [革製のバッグを製造、販売するC社の事例](docs/case/r03_case_3.html)
 ## [ステンレス製品の受注・製作・据付を行うC社の事例](docs/case/r02_case_3.html)
+## [金属部品の熱処理や機械加工を営むC社の事例](docs/case/r01_case_3.html)
 
 `;
 

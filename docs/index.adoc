@@ -46,6 +46,8 @@
 
 ==== link:/docs/case/r02_case_3.html[ステンレス製品の受注・製作・据付を行うC社の事例^]
 
+==== link:/docs/case/r01_case_3.html[金属部品の熱処理や機械加工を営むC社の事例^]
+
 
 == 参照
 
