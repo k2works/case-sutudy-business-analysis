@@ -845,7 +845,7 @@ right side
 @endmindmap
 ----
 
-==== 組織の構造
+==== 組織とは
 
 ===== 組織の要素
 
@@ -1067,6 +1067,48 @@ left side
 ** B事業
 
 @endmindmap
+----
+
+==== 組織の運営
+
+[plantuml]
+----
+@startuml
+[*] --> 起業者段階
+
+note right
+リーダーシップ
+end note
+state 起業者段階 {
+}
+
+起業者段階 --> 共同体段階
+
+note right
+権限委譲
+end note
+state 共同体段階 {
+}
+
+共同体段階 --> 公式化段階
+note right
+官僚制の逆機能の打破
+- フラット化
+- プロジェクト組織
+- 情報共有
+end note
+state 公式化段階 {
+}
+
+公式化段階 --> 精緻化段階
+note right
+再活性化
+end note
+state 精緻化段階 {
+}
+
+精緻化段階 --> [*]
+@enduml
 ----
 
 === 組織と人材
