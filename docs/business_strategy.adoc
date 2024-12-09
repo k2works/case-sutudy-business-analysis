@@ -710,7 +710,7 @@ right side
 [plantuml]
 ----
 @startmindmap
-* [#lightblue] 組織の構造
+* 組織の構造
 left side
 ** 組織とは
 *** 組織の要素
@@ -985,11 +985,13 @@ s1 -> m
 title 機能別組織
 
 * 社長
-** 部門
+** "部門" as m
 *** "開発部門" as m1
 *** "生産部門" as m2
 *** "営業部門" as m3
 ** "スタッフ部門" as s1
+
+s1 -> m
 
 @endwbs
 ----
@@ -1450,6 +1452,8 @@ right side
 ***** 実務能力の習得が難しい
 @endmindmap
 ----
+
+image::images/HRM.drawio.svg[人的資源管理, 600, 400]
 
 === 労働関連法規
 
