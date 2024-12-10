@@ -1871,6 +1871,10 @@ left side
 @enduml
 ----
 
+==== マーケティングの基礎
+
+image::images/MarketingStructure.drawio.svg[マーケティングの階層, 600, 400]
+
 === 製品戦略
 
 [plantuml]
