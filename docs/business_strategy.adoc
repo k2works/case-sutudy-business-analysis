@@ -2035,11 +2035,11 @@ right side
 
 image::images/ProductLayer.drawio.svg[製品の3階層, 600, 400]
 
-===== プロダクト・ミックス
+==== プロダクト・ミックス
 
 image::images/ProductMix.drawio.svg[プロダクト・ミックス, 600, 400]
 
-===== 製品ライフサイクル
+==== 製品ライフサイクル
 
 [plantuml]
 ----
@@ -2141,9 +2141,25 @@ right side
 
 ==== ブランド
 
-===== 新製品開発プロセス
+===== 定義
 
-===== パッケージング
+====== ブランド価値
+
+image::images/BrandValue.drawio.svg[ブランド価値, 600, 400]
+
+===== 種類
+
+image::images/BrandRecurutementStrategy.drawio.svg[ブランド採用戦略, 600, 400]
+
+image::images/BrandBasicStrategy.drawio.svg[ブランド基本戦略, 600, 400]
+
+===== ブランドカテゴライゼーション
+
+image::images/BrandCategorization.drawio.svg[ブランドカテゴライゼーション, 600, 400]
+
+==== 新製品開発プロセス
+
+==== パッケージング
 
 === 価格・チャネル戦略
 
