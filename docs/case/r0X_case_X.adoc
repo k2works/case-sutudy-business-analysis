@@ -36,7 +36,7 @@
 ----
 @startmindmap
 
-* Business Model Canvas
+* ビジネスモデル
 ** 内部環境
 *** 顧客
 **** 顧客セグメント
